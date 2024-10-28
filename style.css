@@ -5,6 +5,17 @@ h1 {
     text-align: center;
 }
 
+.start{
+    background-color: rgb(255, 234, 0);
+    padding: 10px;
+    border-radius: 5px;
+}
+.pass{
+    background-color: rgb(197, 121, 255);
+    padding: 10px;
+    border-radius: 5px;
+}
+
 #container {
     text-align: center;
 }
